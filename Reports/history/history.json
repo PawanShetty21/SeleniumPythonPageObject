@@ -1,0 +1,189 @@
+{
+  "5ca46af6c922e35a1892f9397b7c5513" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "921c96b3f6e3c6c7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/921c96b3f6e3c6c7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038904,
+        "stop" : 1641389038904,
+        "duration" : 0
+      }
+    } ]
+  },
+  "142a0b3d11e5fc17a173c04d7156b848" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3aa6cabb7d88cd9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/d3aa6cabb7d88cd9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038910,
+        "stop" : 1641389038910,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e216532c84d83344673cdce4de7301bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67c1fc0323c09360",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/67c1fc0323c09360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641389139118,
+        "stop" : 1641389154627,
+        "duration" : 15509
+      }
+    } ]
+  },
+  "19bb56719cf482a11cb9a90f23602bbb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1064c9a5a5f1da5f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/1064c9a5a5f1da5f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038900,
+        "stop" : 1641389038900,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7160f2e3624974c4b0d323aa1c4a3f70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e0ef4e2033ebf60",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/4e0ef4e2033ebf60",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038907,
+        "stop" : 1641389038907,
+        "duration" : 0
+      }
+    } ]
+  },
+  "97d03009223335b47956de2fbe6c8979" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f57baa7671c36d6",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/5f57baa7671c36d6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641389046438,
+        "stop" : 1641389054985,
+        "duration" : 8547
+      }
+    } ]
+  },
+  "3f47c3ca85397b4c32212ce24b2e71ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "639504cc4104f648",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/639504cc4104f648",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641389063215,
+        "stop" : 1641389074055,
+        "duration" : 10840
+      }
+    } ]
+  },
+  "cc65e8da7b2a266642538e58d67d2dc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6eaa3ab25e41ac8",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/d6eaa3ab25e41ac8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038913,
+        "stop" : 1641389038913,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0fec80b28dd108381f016299a377dae3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfaae1e7583b1cf1",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/cfaae1e7583b1cf1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: window was already closed\n  (Session info: chrome=94.0.4606.71)",
+      "time" : {
+        "start" : 1641389074399,
+        "stop" : 1641389074399,
+        "duration" : 0
+      }
+    } ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "test_Carwale",
+    "children" : [ {
+      "name" : "test_gotoNewCar[chrome]",
+      "uid" : "b983b487092aef9",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641390448201,
+        "stop" : 1641390448201,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'chrome'" ]
+    }, {
+      "name" : "test_selectCars[chrome-BMW-BMWs Cars]",
+      "uid" : "5c474988e4fe5ca4",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641390448206,
+        "stop" : 1641390448206,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'BMW'", "'BMWs Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_selectCars[chrome-Hyundai-Hyundai Cars]",
+      "uid" : "b751a11a95e60267",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641390448209,
+        "stop" : 1641390448209,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'Hyundai'", "'Hyundai Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_selectCars[chrome-Honda-Honda Cars]",
+      "uid" : "9fae39c12690d365",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641390448212,
+        "stop" : 1641390448212,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'Honda'", "'Honda Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_selectCars[chrome-Toyota-Toyota Cars]",
+      "uid" : "7d39a18b053a6d02",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641390448215,
+        "stop" : 1641390448215,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'Toyota'", "'Toyota Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_printCarNamesandPrices[chrome-BMW-BMWs Cars]",
+      "uid" : "25f2041e451c9f8b",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "failed",
+      "time" : {
+        "start" : 1641390455405,
+        "stop" : 1641390462845,
+        "duration" : 7440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'BMW'", "'BMWs Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_printCarNamesandPrices[chrome-Hyundai-Hyundai Cars]",
+      "uid" : "d310f18bbab2783c",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390470828,
+        "stop" : 1641390481165,
+        "duration" : 10337
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'Hyundai'", "'Hyundai Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_printCarNamesandPrices[chrome-Honda-Honda Cars]",
+      "uid" : "8a5e3f1513ea3c65",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390487062,
+        "stop" : 1641390494554,
+        "duration" : 7492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : true,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : true,
+      "parameters" : [ "'Honda'", "'Honda Cars'", "'chrome'" ]
+    }, {
+      "name" : "test_printCarNamesandPrices[chrome-Toyota-Toyota Cars]",
+      "uid" : "652cecd9b8f56a7",
+      "parentUid" : "4dd75c95ea04cfb4ba4a28e84963a976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390500810,
+        "stop" : 1641390511351,
+        "duration" : 10541
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : false,
+      "parameters" : [ "'Toyota'", "'Toyota Cars'", "'chrome'" ]
+    } ],
+    "uid" : "4dd75c95ea04cfb4ba4a28e84963a976"
+  } ],
+  "name" : "packages"
+}

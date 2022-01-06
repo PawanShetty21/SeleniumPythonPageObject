@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "children" : [ {
+        "name" : "test_printCarNamesandPrices[chrome-BMW-BMWs Cars]",
+        "uid" : "25f2041e451c9f8b",
+        "parentUid" : "4dde12f27b8b9ce045fb52404f366e7e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1641390455405,
+          "stop" : 1641390462845,
+          "duration" : 7440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'BMW'", "'BMWs Cars'", "'chrome'" ]
+      } ],
+      "uid" : "4dde12f27b8b9ce045fb52404f366e7e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

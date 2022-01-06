@@ -1,0 +1,138 @@
+{
+  "uid" : "3fcb76d93c82952b",
+  "name" : "test_selectCars[chrome-BMW-BMWs Cars]",
+  "fullName" : "test_Carwale.Test_Carwale#test_selectCars",
+  "historyId" : "5ca46af6c922e35a1892f9397b7c5513",
+  "time" : {
+    "start" : 1641368319224,
+    "stop" : 1641368319224,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('/Users/admin/PycharmProjects/PageObjectModelFramework/Testcases/test_Carwale.py', 27, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1641368319241,
+      "stop" : 1641368326494,
+      "duration" : 7253
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1641368326494,
+      "stop" : 1641368326494,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1641368333606,
+      "stop" : 1641368334851,
+      "duration" : 1245
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b76cc418171392b4",
+      "name" : "Screenshot",
+      "source" : "b76cc418171392b4.png",
+      "type" : "image/png",
+      "size" : 124496
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1641368334854,
+      "stop" : 1641368335130,
+      "duration" : 276
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Carwale"
+  }, {
+    "name" : "host",
+    "value" : "LiriQA1.local"
+  }, {
+    "name" : "thread",
+    "value" : "14142-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'BMW'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'BMWs Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip", "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "3fcb76d93c82952b.json",
+  "parameterValues" : [ "'BMW'", "'BMWs Cars'", "'chrome'" ]
+}

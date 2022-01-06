@@ -1,0 +1,9 @@
+2022-01-03 11:50:10,152 - test_Login.py:[37] - [INFO] - Test Login started
+2022-01-03 11:50:10,315 - BasePage.py:[46] - [INFO] - Typing in an element: username_XPATHValue entered as: test1@gmail.com
+2022-01-03 11:50:10,428 - BasePage.py:[46] - [INFO] - Typing in an element: password_XPATHValue entered as: admin123
+2022-01-03 11:50:10,428 - test_Login.py:[40] - [INFO] - Test Login successfully executed
+2022-01-03 23:02:39,740 - test_Carwale.py:[19] - [INFO] - ********Inside new car test********
+2022-01-03 23:04:58,518 - test_Carwale.py:[19] - [INFO] - ********Inside new car test********
+2022-01-03 23:06:40,137 - test_Carwale.py:[19] - [INFO] - ********Inside new car test********
+2022-01-03 23:07:48,257 - test_Carwale.py:[19] - [INFO] - ********Inside new car test********
+2022-01-03 23:07:48,626 - BasePage.py:[77] - [INFO] - Moving to an element: newCars_Button_XPATH

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "9fae39c12690d365",
+  "name" : "test_selectCars[chrome-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1641390448212,
+    "stop" : 1641390448212,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b751a11a95e60267",
+  "name" : "test_selectCars[chrome-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1641390448209,
+    "stop" : 1641390448209,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "25f2041e451c9f8b",
+  "name" : "test_printCarNamesandPrices[chrome-BMW-BMWs Cars]",
+  "time" : {
+    "start" : 1641390455405,
+    "stop" : 1641390462845,
+    "duration" : 7440
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d39a18b053a6d02",
+  "name" : "test_selectCars[chrome-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1641390448215,
+    "stop" : 1641390448215,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "652cecd9b8f56a7",
+  "name" : "test_printCarNamesandPrices[chrome-Toyota-Toyota Cars]",
+  "time" : {
+    "start" : 1641390500810,
+    "stop" : 1641390511351,
+    "duration" : 10541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b983b487092aef9",
+  "name" : "test_gotoNewCar[chrome]",
+  "time" : {
+    "start" : 1641390448201,
+    "stop" : 1641390448201,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5c474988e4fe5ca4",
+  "name" : "test_selectCars[chrome-BMW-BMWs Cars]",
+  "time" : {
+    "start" : 1641390448206,
+    "stop" : 1641390448206,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d310f18bbab2783c",
+  "name" : "test_printCarNamesandPrices[chrome-Hyundai-Hyundai Cars]",
+  "time" : {
+    "start" : 1641390470828,
+    "stop" : 1641390481165,
+    "duration" : 10337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a5e3f1513ea3c65",
+  "name" : "test_printCarNamesandPrices[chrome-Honda-Honda Cars]",
+  "time" : {
+    "start" : 1641390487062,
+    "stop" : 1641390494554,
+    "duration" : 7492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

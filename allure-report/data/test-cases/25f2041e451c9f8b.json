@@ -1,0 +1,216 @@
+{
+  "uid" : "25f2041e451c9f8b",
+  "name" : "test_printCarNamesandPrices[chrome-BMW-BMWs Cars]",
+  "fullName" : "test_Carwale.Test_Carwale#test_printCarNamesandPrices",
+  "historyId" : "97d03009223335b47956de2fbe6c8979",
+  "time" : {
+    "start" : 1641390455405,
+    "stop" : 1641390462845,
+    "duration" : 7440
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+  "statusTrace" : "self = <Testcases.test_Carwale.Test_Carwale object at 0x7f7f693ff460>\ncarBrand = 'BMW', carTitle = 'BMWs Cars'\n\n    @pytest.mark.parametrize(\"carBrand, carTitle\",\n                             DataProvider.get_data(\"NewCarsTest\"))\n    def test_printCarNamesandPrices(self, carBrand,carTitle):\n        log.logger.info(\"******Inside Car Names*********\")\n        home = HomePage(self.driver)\n        car = CarBase(self.driver)\n        print(\"Printing car brand:\", carBrand)\n    \n        if carBrand == \"BMW\":\n            home.gotoNewCars().selectBMW()\n            title = car.getCarTitle()  # To get Car Title\n            # print(\"Car title is: \" + title)\n            print((\"Car title is: \"+title).encode('utf8')) # This is to avoid error in Jenkins\n    \n>           assert title == carTitle, \"Not on the correct page as title is not matching\"\nE           AssertionError: Not on the correct page as title is not matching\nE           assert 'BMW Cars' == 'BMWs Cars'\nE             - BMWs Cars\nE             ?    -\nE             + BMW Cars\n\ntest_Carwale.py:76: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1641390448218,
+      "stop" : 1641390455402,
+      "duration" : 7184
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1641390455402,
+      "stop" : 1641390455403,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+    "statusTrace" : "self = <Testcases.test_Carwale.Test_Carwale object at 0x7f7f693ff460>\ncarBrand = 'BMW', carTitle = 'BMWs Cars'\n\n    @pytest.mark.parametrize(\"carBrand, carTitle\",\n                             DataProvider.get_data(\"NewCarsTest\"))\n    def test_printCarNamesandPrices(self, carBrand,carTitle):\n        log.logger.info(\"******Inside Car Names*********\")\n        home = HomePage(self.driver)\n        car = CarBase(self.driver)\n        print(\"Printing car brand:\", carBrand)\n    \n        if carBrand == \"BMW\":\n            home.gotoNewCars().selectBMW()\n            title = car.getCarTitle()  # To get Car Title\n            # print(\"Car title is: \" + title)\n            print((\"Car title is: \"+title).encode('utf8')) # This is to avoid error in Jenkins\n    \n>           assert title == carTitle, \"Not on the correct page as title is not matching\"\nE           AssertionError: Not on the correct page as title is not matching\nE           assert 'BMW Cars' == 'BMWs Cars'\nE             - BMWs Cars\nE             ?    -\nE             + BMW Cars\n\ntest_Carwale.py:76: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ff1d9f788930261e",
+      "name" : "log",
+      "source" : "ff1d9f788930261e.txt",
+      "type" : "text/plain",
+      "size" : 647
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1641390463204,
+      "stop" : 1641390464440,
+      "duration" : 1236
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8421242131af3188",
+      "name" : "Screenshot",
+      "source" : "8421242131af3188.png",
+      "type" : "image/png",
+      "size" : 123618
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1641390464442,
+      "stop" : 1641390464711,
+      "duration" : 269
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Carwale"
+  }, {
+    "name" : "host",
+    "value" : "LiriQA1.local"
+  }, {
+    "name" : "thread",
+    "value" : "16083-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'BMW'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'BMWs Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9950c9f4a9d3d45",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641389046438,
+        "stop" : 1641389054985,
+        "duration" : 8547
+      }
+    }, {
+      "uid" : "12b4e9c966272ffe",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641388676162,
+        "stop" : 1641388684532,
+        "duration" : 8370
+      }
+    }, {
+      "uid" : "79594a5bafa2f6e9",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641387413513,
+        "stop" : 1641387420615,
+        "duration" : 7102
+      }
+    }, {
+      "uid" : "e99e1d8fc766bf9a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641368326497,
+        "stop" : 1641368333337,
+        "duration" : 6840
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5f57baa7671c36d6",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/5f57baa7671c36d6",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+        "time" : {
+          "start" : 1641389046438,
+          "stop" : 1641389054985,
+          "duration" : 8547
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "25f2041e451c9f8b.json",
+  "parameterValues" : [ "'BMW'", "'BMWs Cars'", "'chrome'" ]
+}

@@ -1,0 +1,143 @@
+{
+  "uid" : "50b24d41a48bcd0a",
+  "name" : "test_printCarNamesandPrices[chrome-Hyundai-Hyundai Cars]",
+  "fullName" : "test_Carwale.Test_Carwale#test_printCarNamesandPrices",
+  "historyId" : "3f47c3ca85397b4c32212ce24b2e71ef",
+  "time" : {
+    "start" : 1641388695738,
+    "stop" : 1641388706738,
+    "duration" : 11000
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1641388687243,
+      "stop" : 1641388695734,
+      "duration" : 8491
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1641388695735,
+      "stop" : 1641388695735,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "95cce4a0384a2312",
+      "name" : "log",
+      "source" : "95cce4a0384a2312.txt",
+      "type" : "text/plain",
+      "size" : 651
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1641388706746,
+      "stop" : 1641388706746,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1641388706760,
+      "stop" : 1641388707149,
+      "duration" : 389
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Carwale"
+  }, {
+    "name" : "host",
+    "value" : "LiriQA1.local"
+  }, {
+    "name" : "thread",
+    "value" : "15694-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'Hyundai'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'Hyundai Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "50b24d41a48bcd0a.json",
+  "parameterValues" : [ "'Hyundai'", "'Hyundai Cars'", "'chrome'" ]
+}

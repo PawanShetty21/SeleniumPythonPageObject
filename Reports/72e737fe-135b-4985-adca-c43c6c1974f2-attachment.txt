@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:12 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:12 Current google-chrome version is 94.0.4606
+[32mINFO    [0m WDM:logger.py:12 Get LATEST driver version for 94.0.4606
+[32mINFO    [0m WDM:logger.py:12 Driver [/Users/admin/.wdm/drivers/chromedriver/mac64/94.0.4606.113/chromedriver] found in cache
+[32mINFO    [0m Testcases.test_Carwale:test_Carwale.py:65 ******Inside Car Names*********
+[32mINFO    [0m Pages.BasePage:BasePage.py:35 Clicking on an element: newCars_Button_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:99 Selecting from suggestion: findNewCars_Elements_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:35 Clicking on an element: hyundai_XPATH
