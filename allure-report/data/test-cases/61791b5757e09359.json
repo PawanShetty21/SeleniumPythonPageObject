@@ -1,0 +1,355 @@
+{
+  "uid" : "61791b5757e09359",
+  "name" : "test_selectCars[chrome-Hyundai-Hyundai Cars]",
+  "fullName" : "test_Carwale.Test_Carwale#test_selectCars",
+  "historyId" : "7160f2e3624974c4b0d323aa1c4a3f70",
+  "time" : {
+    "start" : 1641495186866,
+    "stop" : 1641495186866,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: unconditional skip",
+  "statusTrace" : "('/Users/admin/PycharmProjects/PageObjectModelFramework/Testcases/test_Carwale.py', 27, 'Skipped: unconditional skip')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1641495186876,
+      "stop" : 1641495198575,
+      "duration" : 11699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1641495198579,
+      "stop" : 1641495198580,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1641495206540,
+      "stop" : 1641495207626,
+      "duration" : 1086
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "787cc24a7c241ff8",
+      "name" : "Screenshot",
+      "source" : "787cc24a7c241ff8.png",
+      "type" : "image/png",
+      "size" : 242278
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1641495207627,
+      "stop" : 1641495207947,
+      "duration" : 320
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip"
+  }, {
+    "name" : "suite",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Carwale"
+  }, {
+    "name" : "host",
+    "value" : "LiriQA1.local"
+  }, {
+    "name" : "thread",
+    "value" : "35953-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carBrand",
+    "value" : "'Hyundai'"
+  }, {
+    "name" : "carTitle",
+    "value" : "'Hyundai Cars'"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1b9cf7dbc242c20",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1400ba4460c55d4e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448209,
+        "stop" : 1641390448209,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "db8b1c59900bc515",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641389038907,
+        "stop" : 1641389038907,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c0e18a744b6f0c17",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641388667705,
+        "stop" : 1641388667705,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "828bb2a8b2e37f0e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641387405969,
+        "stop" : 1641387405969,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e25029fcd64cfc4b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641368319226,
+        "stop" : 1641368319226,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 16,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "f87094379121d98c",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/f87094379121d98c",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b6c7014180ad412",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/b6c7014180ad412",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f293b0cf4232ca8",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/f293b0cf4232ca8",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "430830289b9299f9",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/430830289b9299f9",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c4662fbb34d7fd71",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/c4662fbb34d7fd71",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1b351c3411c0a324",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/1b351c3411c0a324",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "71e9e011df78e9ce",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/71e9e011df78e9ce",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "664432b372b74723",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/664432b372b74723",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3f2e8f4a20273f0d",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/3f2e8f4a20273f0d",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "fb9920c82feae97",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/fb9920c82feae97",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1425b4e5900484c2",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/1425b4e5900484c2",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3171ab4519fd4eb0",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/3171ab4519fd4eb0",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "bcb813ae88373245",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/bcb813ae88373245",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641453213412,
+          "stop" : 1641453213412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b751a11a95e60267",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/b751a11a95e60267",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641390448209,
+          "stop" : 1641390448209,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4e0ef4e2033ebf60",
+        "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/4e0ef4e2033ebf60",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: unconditional skip",
+        "time" : {
+          "start" : 1641389038907,
+          "stop" : 1641389038907,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.skip", "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "61791b5757e09359.json",
+  "parameterValues" : [ "'Hyundai'", "'Hyundai Cars'", "'chrome'" ]
+}

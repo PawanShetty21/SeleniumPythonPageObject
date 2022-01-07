@@ -3,12 +3,152 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 15,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "7ab2c4437b2b7536",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/7ab2c4437b2b7536",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e7334b14ce208e56",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/e7334b14ce208e56",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8423dad46512fc36",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/8423dad46512fc36",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "99915fe685babc9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/99915fe685babc9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "54ec9c14ea4d40be",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/54ec9c14ea4d40be",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c2199afea5946dc0",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/c2199afea5946dc0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "476eeb94f58639dc",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/476eeb94f58639dc",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a9f17cbb7370a0b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/a9f17cbb7370a0b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3d0f7ac4c02fe9ca",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/3d0f7ac4c02fe9ca",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ba3dcd88427bdf0b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/ba3dcd88427bdf0b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "56ceb5cb1235185b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/56ceb5cb1235185b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9825e59b04fd9a1e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/9825e59b04fd9a1e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "337b93b606cad483",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/337b93b606cad483",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213409,
+        "stop" : 1641453213409,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5c474988e4fe5ca4",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/5c474988e4fe5ca4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448206,
+        "stop" : 1641390448206,
+        "duration" : 0
+      }
+    }, {
       "uid" : "921c96b3f6e3c6c7",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/921c96b3f6e3c6c7",
       "status" : "skipped",
@@ -24,12 +164,152 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 15,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "175cb6502108a662",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/175cb6502108a662",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c708e1d1d61bd65f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/c708e1d1d61bd65f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a7b4ff19cc56b696",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/a7b4ff19cc56b696",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "257609e1717be115",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/257609e1717be115",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c1872e8f7724d4e3",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/c1872e8f7724d4e3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a9b81d5061c7b0f8",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/a9b81d5061c7b0f8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e183bb7e0e7ed85",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/3e183bb7e0e7ed85",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f9d66bdc8ac1174b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/f9d66bdc8ac1174b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b0b90a402b6ed52",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/1b0b90a402b6ed52",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "36fa4fa90c2fe4b4",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/36fa4fa90c2fe4b4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "73da7b1ff8d2630b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/73da7b1ff8d2630b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3590bd128af42f19",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/3590bd128af42f19",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e8dc05ab50bd2779",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/e8dc05ab50bd2779",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213416,
+        "stop" : 1641453213416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9fae39c12690d365",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/9fae39c12690d365",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448212,
+        "stop" : 1641390448212,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d3aa6cabb7d88cd9",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/d3aa6cabb7d88cd9",
       "status" : "skipped",
@@ -46,11 +326,137 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "e0397e0e4bbca011",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/e0397e0e4bbca011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "2f0b6045dcfcea91",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/2f0b6045dcfcea91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "45dc1b33bc8bf19a",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/45dc1b33bc8bf19a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "45937e73a898919c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/45937e73a898919c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "177db31b5031e9c7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/177db31b5031e9c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "c030035d1ce2f8e7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/c030035d1ce2f8e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "89de96f1017b9e37",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/89de96f1017b9e37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "20e3ebf32262817f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/20e3ebf32262817f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "fb2345180b7b4fa",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/fb2345180b7b4fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "4301c05d91374309",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/4301c05d91374309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "c2e61f2a8c072411",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/c2e61f2a8c072411",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "d46b356fe5eb955a",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/d46b356fe5eb955a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "5af7fb77dd4bbdd9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/5af7fb77dd4bbdd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453277953,
+        "stop" : 1641453287732,
+        "duration" : 9779
+      }
+    }, {
+      "uid" : "652cecd9b8f56a7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/652cecd9b8f56a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390500810,
+        "stop" : 1641390511351,
+        "duration" : 10541
+      }
+    }, {
       "uid" : "67c1fc0323c09360",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/67c1fc0323c09360",
       "status" : "passed",
@@ -65,12 +471,152 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 15,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "c8a38d48598cfb48",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/c8a38d48598cfb48",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c9bb62bc4eeff76c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/c9bb62bc4eeff76c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e2a8948b3aaf355",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/3e2a8948b3aaf355",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f2a19887ed5f59b9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/f2a19887ed5f59b9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "327e4e1b3ffc0e8e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/327e4e1b3ffc0e8e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f95bd3f07ce42b6d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/f95bd3f07ce42b6d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "568feb38248b2254",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/568feb38248b2254",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6de826f5e7eb4f4e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/6de826f5e7eb4f4e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5b1447e356af75d9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/5b1447e356af75d9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f85baeb12bce50c5",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/f85baeb12bce50c5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c7d1e958a3869da6",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/c7d1e958a3869da6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "65a0f218f7e7fa67",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/65a0f218f7e7fa67",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "76e3d1dd41f648",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/76e3d1dd41f648",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213404,
+        "stop" : 1641453213404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b983b487092aef9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/b983b487092aef9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448201,
+        "stop" : 1641390448201,
+        "duration" : 0
+      }
+    }, {
       "uid" : "1064c9a5a5f1da5f",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/1064c9a5a5f1da5f",
       "status" : "skipped",
@@ -86,12 +632,152 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 15,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "f87094379121d98c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/f87094379121d98c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b6c7014180ad412",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/b6c7014180ad412",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f293b0cf4232ca8",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/f293b0cf4232ca8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "430830289b9299f9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/430830289b9299f9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c4662fbb34d7fd71",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/c4662fbb34d7fd71",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b351c3411c0a324",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/1b351c3411c0a324",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71e9e011df78e9ce",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/71e9e011df78e9ce",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "664432b372b74723",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/664432b372b74723",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3f2e8f4a20273f0d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/3f2e8f4a20273f0d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fb9920c82feae97",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/fb9920c82feae97",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1425b4e5900484c2",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/1425b4e5900484c2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3171ab4519fd4eb0",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/3171ab4519fd4eb0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bcb813ae88373245",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/bcb813ae88373245",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213412,
+        "stop" : 1641453213412,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b751a11a95e60267",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/b751a11a95e60267",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448209,
+        "stop" : 1641390448209,
+        "duration" : 0
+      }
+    }, {
       "uid" : "4e0ef4e2033ebf60",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/4e0ef4e2033ebf60",
       "status" : "skipped",
@@ -105,14 +791,154 @@
   },
   "97d03009223335b47956de2fbe6c8979" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 15,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "91e9a9717e6f2bbb",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/91e9a9717e6f2bbb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "cec17eafdbc80232",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/cec17eafdbc80232",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "c510cc987029c03e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/c510cc987029c03e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "f4c3b296749661ec",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/f4c3b296749661ec",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "849e74aec14615d2",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/849e74aec14615d2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "a295b2039e22089f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/a295b2039e22089f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "c32e9545d5a02e93",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/c32e9545d5a02e93",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "5e10d8e15f3afa89",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/5e10d8e15f3afa89",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "762e1fdde74518ca",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/762e1fdde74518ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "9f6226acc07c05f3",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/9f6226acc07c05f3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "e903aa54196e6599",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/e903aa54196e6599",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "377d07cece82f54a",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/377d07cece82f54a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "72b88d93d56d6100",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/72b88d93d56d6100",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641453224358,
+        "stop" : 1641453232870,
+        "duration" : 8512
+      }
+    }, {
+      "uid" : "25f2041e451c9f8b",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/25f2041e451c9f8b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: Not on the correct page as title is not matching\nassert 'BMW Cars' == 'BMWs Cars'\n  - BMWs Cars\n  ?    -\n  + BMW Cars",
+      "time" : {
+        "start" : 1641390455405,
+        "stop" : 1641390462845,
+        "duration" : 7440
+      }
+    }, {
       "uid" : "5f57baa7671c36d6",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/5f57baa7671c36d6",
       "status" : "failed",
@@ -129,11 +955,137 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "ec760c8e7b02f737",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/ec760c8e7b02f737",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "1d129418adf7a88f",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/1d129418adf7a88f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "735a589d0edca40c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/735a589d0edca40c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "3318c4e4069a3c91",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/3318c4e4069a3c91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "a572c5c16f96a376",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/a572c5c16f96a376",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "fb7289beff4df41",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/fb7289beff4df41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "76aa4f8f8f0ab452",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/76aa4f8f8f0ab452",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "29850149d990e70d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/29850149d990e70d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "53ea640aa844aa5d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/53ea640aa844aa5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "998853c74a126c41",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/998853c74a126c41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "73a6086612432afe",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/73a6086612432afe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "d7597d1dda1620b4",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/d7597d1dda1620b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "ec7da976ce61e76d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/ec7da976ce61e76d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453244176,
+        "stop" : 1641453255356,
+        "duration" : 11180
+      }
+    }, {
+      "uid" : "d310f18bbab2783c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/d310f18bbab2783c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390470828,
+        "stop" : 1641390481165,
+        "duration" : 10337
+      }
+    }, {
       "uid" : "639504cc4104f648",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/639504cc4104f648",
       "status" : "passed",
@@ -148,12 +1100,152 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 15,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "cb245b5673135e84",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/cb245b5673135e84",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "168189c1708f8868",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/168189c1708f8868",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6464d8dbf8f12346",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/6464d8dbf8f12346",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d6210d79a4cbebca",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/d6210d79a4cbebca",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "925b924c656c6d9",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/925b924c656c6d9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4f19b4723af7487c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/4f19b4723af7487c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2a8c9eb3ca2ec73d",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/2a8c9eb3ca2ec73d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e2066348117746fb",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/e2066348117746fb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2192bdb243751ea",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/2192bdb243751ea",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3aa61733f44652c2",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/3aa61733f44652c2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7bd6d6cbf7c99f42",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/7bd6d6cbf7c99f42",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4051a2c5f0dd9930",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/4051a2c5f0dd9930",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd997dd17da5a4b1",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/fd997dd17da5a4b1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641453213427,
+        "stop" : 1641453213427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7d39a18b053a6d02",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/7d39a18b053a6d02",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1641390448215,
+        "stop" : 1641390448215,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d6eaa3ab25e41ac8",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/d6eaa3ab25e41ac8",
       "status" : "skipped",
@@ -170,11 +1262,137 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 14,
       "unknown" : 0,
-      "total" : 1
+      "total" : 15
     },
     "items" : [ {
+      "uid" : "d30e9a7290d04dac",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/17/allure/#testresult/d30e9a7290d04dac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "7759dd13328f88a7",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/16/allure/#testresult/7759dd13328f88a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "3ff46dbf3d89d44e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/15/allure/#testresult/3ff46dbf3d89d44e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "4f55c5c6f9abc207",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/14/allure/#testresult/4f55c5c6f9abc207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "8fb5fc16db886c07",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/13/allure/#testresult/8fb5fc16db886c07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "ddd8efe3629bf2e5",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/12/allure/#testresult/ddd8efe3629bf2e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "9b8ed29e14e104c",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/11/allure/#testresult/9b8ed29e14e104c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "44688dc78867f910",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/10/allure/#testresult/44688dc78867f910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "88a1f8ac2bc7832e",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/9/allure/#testresult/88a1f8ac2bc7832e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "2f849ce6a901858",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/8/allure/#testresult/2f849ce6a901858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "974b583c59b79fc",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/7/allure/#testresult/974b583c59b79fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "5fc36df1dcf5838a",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/6/allure/#testresult/5fc36df1dcf5838a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "12ea2440c65b9315",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/5/allure/#testresult/12ea2440c65b9315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641453261747,
+        "stop" : 1641453271246,
+        "duration" : 9499
+      }
+    }, {
+      "uid" : "8a5e3f1513ea3c65",
+      "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/4/allure/#testresult/8a5e3f1513ea3c65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641390487062,
+        "stop" : 1641390494554,
+        "duration" : 7492
+      }
+    }, {
       "uid" : "cfaae1e7583b1cf1",
       "reportUrl" : "http://localhost:8080/job/PageObjectModelPython/3/allure/#testresult/cfaae1e7583b1cf1",
       "status" : "broken",
