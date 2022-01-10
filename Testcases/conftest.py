@@ -1,3 +1,5 @@
+from datetime import time
+
 import allure
 import pytest
 from allure_commons.types import AttachmentType
