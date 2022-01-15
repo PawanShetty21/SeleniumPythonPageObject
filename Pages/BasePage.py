@@ -80,7 +80,7 @@ class BasePage:
 # For suggestion box
     def selectSuggestion(self, locator):
 
-        print("**********Inside selectSuggestion**********")
+        print("**********Inside select Suggestion**********")
 
         if str(locator).endswith("_XPATH"):
             suggestion = self.driver.find_elements_by_xpath(ConfigReader.readConfig("locators", locator))
