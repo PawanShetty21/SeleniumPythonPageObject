@@ -34,7 +34,9 @@ def log_on_failure(request, get_browser):
 @pytest.fixture(params=["chrome"], scope="function")
 def get_browser(request):
     if request.param == "chrome":
-        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        # driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        driver = webdriver.Chrome(executable_path = '../PageObjectModelFramework/Drivers/chromedriver')
+
     # if request.param == "firefox":
     #     # driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     #     driver = webdriver.Firefox(executable_path='/Users/admin/PycharmProjects/PageObjectModelFramework/Drivers/geckodriver')
