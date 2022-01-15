@@ -99,6 +99,7 @@ class Test_Carwale(BaseTest):
             print(("Car title is: " + title).encode('utf8'))  # This is to avoid error in Jenkins
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
+            #Test GIT REPO
 
 def pytest_addoption(parser):
     parser.add
