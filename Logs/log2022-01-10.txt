@@ -1,0 +1,2 @@
+2022-01-10 22:43:39,123 - BasePage.py:[45] - [INFO] - Typing in an element:2022-01-10 22:43:39,262 - test_Login.py:[43] - [INFO] - Test Login successfully executed
+5] - [INFO] - Typing in an element: password_XPATHValue entered as: admin123

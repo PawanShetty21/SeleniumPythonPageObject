@@ -17,9 +17,10 @@ def pytest_runtest_makereport(item, call):
     setattr(item, "rep_" + rep.when, rep)
     return rep
 
+
 # To take screenshot of failed test cases
 @pytest.fixture()
-def log_on_failure(request,get_browser):
+def log_on_failure(request, get_browser):
     yield
     item = request.node
     driver = get_browser
@@ -27,13 +28,10 @@ def log_on_failure(request,get_browser):
         allure.attach(driver.get_screenshot_as_png(), name="Screenshot", attachment_type=AttachmentType.PNG)
 
 
-
 # @pytest.fixture(params=["chrome", "firefox"], scope="class") # with chrome and firefox
-@pytest.fixture(params=["chrome"], scope="function")
-
 # For class level execution
 # @pytest.fixture(params=["chrome"], scope="class")
-
+@pytest.fixture(params=["chrome"], scope="function")
 def get_browser(request):
     if request.param == "chrome":
         driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
@@ -44,9 +42,9 @@ def get_browser(request):
     request.cls.driver = driver
 
     # driver.get("https://www.facebook.com/") # To directly pass the url
-    driver.get(ConfigReader.readConfig("basic info", "testURL")) # To pass url from Conftest using ConfigReader
+    driver.get(ConfigReader.readConfig("basic info", "testURL"))  # To pass url from Conftest using ConfigReader
     driver.maximize_window()
     driver.implicitly_wait(10)
 
-    yield driver # returing driver
+    yield driver  # returning driver
     driver.quit()

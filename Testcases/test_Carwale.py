@@ -100,3 +100,6 @@ class Test_Carwale(BaseTest):
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrice()
 
+def pytest_addoption(parser):
+    parser.add
+

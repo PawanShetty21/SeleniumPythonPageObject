@@ -15,7 +15,7 @@ class CarBase:
         return self.driver.find_element_by_xpath(ConfigReader.readConfig("locators", "car_Title_XPATH")).text
 
     def getCarNameAndPrice(self):
-        # Adding this comments To check Jekins auto build triggers
+        # Adding this comments To check Jenkins auto build triggers
         # Use find_elements
         carName = self.driver.find_elements_by_xpath(ConfigReader.readConfig("locators", "carName_XPATH"))
         carPrice = self.driver.find_elements_by_xpath(ConfigReader.readConfig("locators", "carPrice_XPATH"))
