@@ -104,6 +104,7 @@ class Test_Carwale(BaseTest):
             car.getCarNameAndPrice()
             #Test GIT REPO
             #Test ammend
+            #Added to check branch creation
 
 def pytest_addoption(parser):
     parser.add
