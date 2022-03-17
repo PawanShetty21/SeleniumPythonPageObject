@@ -1,5 +1,7 @@
 import time
 
+from selenium.webdriver.common.by import By
+
 from Pages.BasePage import BasePage
 from Pages.NewCarsPage import NewCarsPage
 
@@ -12,6 +14,7 @@ class HomePage(BasePage):
     def gotoNewCars(self):
         # self.moveTo("newCars_Button_XPATH")
         self.click("newCars_Button_XPATH")
+
         time.sleep(3)
         self.selectSuggestion("findNewCars_Elements_XPATH")
 

@@ -1,0 +1,3 @@
+2022-01-18 17:07:26,140 - BasePage.py:[36] - [INFO] - Clicking on an element: newCars_Button_XPATH
+2022-01-18 17:07:29,550 - BasePage.py:[110] - [INFO] - Selecting from suggestion: findNewCars_Elements_XPATH
+2022-01-18 17:07:30,437 - BasePage.py:[36] - [INFO] - Clicking on an element: hyundai_XPATH

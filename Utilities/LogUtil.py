@@ -12,7 +12,7 @@ class Logger():
         fmt = logging.Formatter('%(asctime)s - %(filename)s:[%(lineno)s] - [%(levelname)s] - %(message)s')
 
         # To store logfile inside Logs folder
-        curr_time = time.strftime("%Y-%m-%d")
+        curr_time = time.strftimeg("%Y-%m-%d")
         self.LogFileName = '../Logs/log' + curr_time + '.txt'
         # "a" to append the logs in same file, "w" to generate new logs and delete old one
         fh = logging.FileHandler(self.LogFileName, mode="w")

@@ -44,7 +44,7 @@ def get_browser(request):
     request.cls.driver = driver
 
     # driver.get("https://www.facebook.com/") # To directly pass the url
-    driver.get(ConfigReader.readConfig("basic info", "testURL"))  # To pass url from Conftest using ConfigReader
+    driver.get(ConfigReader.readConfig("basic info", "testURL"))  # To pass url from Config using ConfigReader
     driver.maximize_window()
     driver.implicitly_wait(10)
 

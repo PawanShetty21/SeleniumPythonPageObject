@@ -22,26 +22,38 @@ class BasePage:
         self.driver = driver
 
 # Creating keyword driven flow for click, type, get title operations
-# For clicking
-    def click(self, locator): # Passing locator agrs to fetch from calling functions
 
+
+# For clicking with if elif statement to validate locator type
+    def click(self, locator): # Passing locator agrs to fetch from calling functions
         if str(locator).endswith("_XPATH"): # Use validation to check if the locator is Xpath, Css etc
             self.driver.find_element_by_xpath(ConfigReader.readConfig("locators", locator)).click() # Passing Section and Key
         elif str(locator).endswith("_CSS"):
             self.driver.find_element_by_css(ConfigReader.readConfig("locators", locator)).click()
         elif str(locator).endswith("_ID"):
             self.driver.find_element_by_id(ConfigReader.readConfig("locators", locator)).click()
-            #object.logger.info("Info" + converting into str(locator))
+        #     object.logger.info("Info" + converting into str(locator))
         log.logger.info("Clicking on an element: "+ str(locator))
 
-# For typing
+
+# # For clicking with locator_type, locator
+#     def click(self, locator_type, locator):  # Passing locator agrs to fetch from calling functions
+#         element = ConfigReader.readConfig("locators", locator)  # Passing Section and Key
+#         self.driver.find_element(locator_type, element).click()
+#             #object.logger.info("Info" + converting into str(locator))
+#         log.logger.info("Clicking on an element: " + str(locator))
+
+    # For typing
     def type(self, locator, value):
-        if str(locator).endswith("_XPATH"):
-            self.driver.find_element_by_xpath(ConfigReader.readConfig("locators", locator)).send_keys(value)
+
+        if str(locator).endswith("_XPATH"): # Use validation to check if the locator is Xpath, Css etc
+            self.driver.find_element_by_xpath(ConfigReader.readConfig("locators", locator)).send_keys(value) # Passing Section and Key
         elif str(locator).endswith("_CSS"):
-            self.driver.find_element_by_css_selector(ConfigReader.readConfig("locators", locator)).send_keys(value)
+            self.driver.find_element_by_css(ConfigReader.readConfig("locators", locator)).send_keys(value)
         elif str(locator).endswith("_ID"):
             self.driver.find_element_by_id(ConfigReader.readConfig("locators", locator)).send_keys(value)
+        #     object.logger.info("Info" + converting into str(locator))
+        log.logger.info("Clicking on an element: "+ str(locator))
         log.logger.info("Typing in an element: " + str(locator)+ "Value entered as: "+str(value))
 
 # For Dropdown
@@ -53,7 +65,6 @@ class BasePage:
             dropdown = self.driver.find_element_by_css(ConfigReader.readConfig("locators", locator)).send_keys(value)
         elif str(locator).endswith("_ID"):
             dropdown= self.driver.find_element_by_id(ConfigReader.readConfig("locators", locator)).send_keys(value)
-
 
         select = Select(dropdown)
         select.select_by_visible_text(value)
