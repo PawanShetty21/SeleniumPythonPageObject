@@ -109,3 +109,6 @@ class Test_Carwale(BaseTest):
 def pytest_addoption(parser):
     parser.add
 
+def to_create_merge_conflict():
+    print("to_create_merge_conflict")
+
