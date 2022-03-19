@@ -105,6 +105,8 @@ class Test_Carwale(BaseTest):
             #Test GIT REPO
             #Test ammend
 
+            # Added to create merge conflict
+
 def pytest_addoption(parser):
     parser.add
 
